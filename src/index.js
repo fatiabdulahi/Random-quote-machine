@@ -11,5 +11,5 @@ document.addEventListener('DOMContentLoaded', () => {
     root.render(<App />); // Render the App component
   } else {
     console.error('Root element not found');
-  }
+  }
 });
